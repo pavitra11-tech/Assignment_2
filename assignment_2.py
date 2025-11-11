@@ -5,8 +5,6 @@ if number%2 ==0:
 else:
     print(f"{number} is an odd number")
 
-
-
 # Task 2: sum of numbers from 1 to 50
 total = 0
 for i in range(1,51,1):
